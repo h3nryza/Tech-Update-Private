@@ -147,6 +147,7 @@ The AI Developer plugin (v2.4.0+) runs Claude Code directly inside Jira:
 - [skills.md](skills.md) - Jira/Confluence skills
 - [agents.md](agents.md) - Atlassian agents
 - [slash_commands.md](slash_commands.md) - Atlassian slash commands
+- [mcp_setup.md](mcp_setup.md) - Detailed MCP server setup guide
 
 ## Sources
 

@@ -27,7 +27,7 @@ If `$ARGUMENTS` is empty, ask the user: "Describe the incident. Include severity
 
 ## Phase 1: Triage (Do This First)
 
-1. **Create incident log**: Create `claudefiles/incidents/{YYYY-MM-DD}_{short-slug}.md` with:
+1. **Create incident log**: First, ensure `claudefiles/incidents/` directory exists (create it with `mkdir -p` if not). Then create `claudefiles/incidents/{YYYY-MM-DD}_{short-slug}.md` with:
    - Incident ID: `INC-{YYYYMMDD}-{HHMM}`
    - Severity level
    - Description

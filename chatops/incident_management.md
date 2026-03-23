@@ -453,3 +453,11 @@ graph LR
     EARLIER --> REDUCED
     PREVENT --> FEWER[Fewer Incidents]
 ```
+
+---
+
+## See Also
+
+- [Advanced Runbooks](advanced_runbooks.md) - Detailed runbook templates for common incident scenarios, including automated remediation playbooks
+- [ChatOps Case Studies](case_studies.md) - Real-world examples of AI-powered ChatOps incident management in production environments
+- [Security Patterns](../patterns/security_patterns.md) - Security review workflows and checklists that prevent incidents at the code level

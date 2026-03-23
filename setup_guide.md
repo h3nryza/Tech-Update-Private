@@ -919,3 +919,11 @@ claude
 - [Claude Code Cheat Sheet](https://computingforgeeks.com/claude-code-cheat-sheet/)
 - [CLAUDE.md Best Practices - UX Planet](https://uxplanet.org/claude-md-best-practices-1ef4f861ce7c)
 - [Claude Code Best Practice - GitHub](https://github.com/shanraisshan/claude-code-best-practice)
+
+---
+
+## See Also
+
+- [Templates Directory](templates/) - Ready-to-use templates for CLAUDE.md, skills, agents, MCP configurations, and CI/CD workflows
+- [Slash Command Setup](slash_command_setup.md) - Detailed guide to configuring custom slash commands and skills for your project
+- [Methodology Guide](methodology.md) - The philosophy and workflow methodology behind effective AI-assisted development

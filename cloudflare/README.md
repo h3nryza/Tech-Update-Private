@@ -172,6 +172,7 @@ graph LR
 - [skills.md](skills.md) - Cloudflare skills (Workers, DNS, security)
 - [agents.md](agents.md) - Cloudflare agents
 - [slash_commands.md](slash_commands.md) - Cloudflare slash commands
+- [mcp_setup.md](mcp_setup.md) - Detailed MCP server setup guide
 
 ## Sources
 

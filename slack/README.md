@@ -160,6 +160,7 @@ When someone mentions @Claude in Slack:
 - [skills.md](skills.md) - Slack integration skills
 - [agents.md](agents.md) - Slack agents
 - [slash_commands.md](slash_commands.md) - Slack slash commands
+- [mcp_setup.md](mcp_setup.md) - Detailed MCP server setup guide
 
 ## Sources
 

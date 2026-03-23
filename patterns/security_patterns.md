@@ -468,3 +468,11 @@ graph TD
 - [How to Secure Vibe Coded Applications (DEV Community)](https://dev.to/devin-rosario/how-to-secure-vibe-coded-applications-in-2026-208d)
 - [AI Code Review Checklist: Before Merging (mrq)](https://www.getmrq.com/blog/ai-code-review-checklist)
 - [5 Best Practices for Reviewing AI-Generated Code (Bright Security)](https://brightsec.com/blog/5-best-practices-for-reviewing-and-approving-ai-generated-code/)
+
+---
+
+## See Also
+
+- [Fuzzing and Security Testing](../testing/fuzzing_security.md) - Automated fuzz testing, property-based testing, and security test generation for AI-generated code
+- [Enterprise Compliance](../enterprise/compliance.md) - Regulatory compliance frameworks (SOC 2, HIPAA, GDPR) and how they intersect with AI-generated code governance
+- [ChatOps Incident Management](../chatops/incident_management.md) - AI-powered incident response workflows that operationalize security patterns in production

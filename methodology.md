@@ -846,3 +846,12 @@ Over time, you will develop an intuition that no guide can capture. The methodol
 - [CLAUDE.md Best Practices - UX Planet](https://uxplanet.org/claude-md-best-practices-1ef4f861ce7c)
 - [50+ Best MCP Servers for Claude Code](https://claudefa.st/blog/tools/mcp-extensions/best-addons)
 - [Claude Code Cheat Sheet](https://computingforgeeks.com/claude-code-cheat-sheet/)
+
+---
+
+## See Also
+
+- [Patterns Directory](patterns/) - Reusable patterns for security, testing, architecture, and code review in AI-assisted development
+- [Craft Guide](craft/) - Practical craft skills that complement this methodology -- prompt engineering, debugging, and quality practices
+- [Templates Directory](templates/) - Ready-to-use templates for CLAUDE.md, skills, agents, and project configuration
+- [Setup Guide](setup_guide.md) - Step-by-step instructions for implementing the methodology in a new project

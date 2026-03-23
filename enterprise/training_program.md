@@ -459,3 +459,11 @@ gantt
 - [Ajith VP -- AI Code Assistants Enterprise Adoption Guide](https://ajithp.com/2025/06/23/ai-code-assistants-enterprise-adoption-guide/)
 - [Index.dev -- Developer Productivity Statistics with AI Tools 2026](https://www.index.dev/blog/developer-productivity-statistics-with-ai-tools)
 - [Faros AI -- Enterprise AI Coding Assistant Adoption](https://www.faros.ai/blog/enterprise-ai-coding-assistant-adoption-scaling-guide)
+
+---
+
+## See Also
+
+- [Courses Directory](../courses/) - Free and structured courses on Claude Code, vibe coding, and vibe ops that supplement this training program
+- [Craft Guide](../craft/) - Practical craft skills for AI-assisted development -- prompting techniques, code review patterns, and quality practices
+- [Enterprise Compliance](compliance.md) - Compliance requirements that training participants need to understand for regulated environments

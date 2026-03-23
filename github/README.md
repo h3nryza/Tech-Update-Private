@@ -179,6 +179,7 @@ jobs:
 - [agents.md](agents.md) - GitHub agents
 - [slash_commands.md](slash_commands.md) - GitHub slash commands
 - [actions_integration.md](actions_integration.md) - GitHub Actions integration guide
+- [mcp_setup.md](mcp_setup.md) - Detailed MCP server setup guide
 
 ## Sources
 

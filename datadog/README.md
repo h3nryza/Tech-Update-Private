@@ -143,6 +143,7 @@ export OTEL_EXPORTER_OTLP_HEADERS="DD-API-KEY=your-api-key"
 - [skills.md](skills.md) - Datadog monitoring skills
 - [agents.md](agents.md) - Datadog agents (alert analyst, dashboard builder)
 - [slash_commands.md](slash_commands.md) - Datadog slash commands
+- [mcp_setup.md](mcp_setup.md) - Detailed MCP server setup guide
 
 ## Sources
 
